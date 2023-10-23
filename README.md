@@ -1,0 +1,3 @@
+# react-skeleton-component-practice
+
+This GitHub repository showcases my practice work for creating React skeleton components with JSON data for users and posts. It serves as a valuable learning exercise and demonstrates my proficiency in building user interfaces with React. By using placeholders for user and post data, I've honed my skills in frontend development and created a visual representation of a dynamic web application. Feel free to explore my work and see how I've implemented these skeleton components to enhance user experience and loading times.
